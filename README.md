@@ -17,4 +17,5 @@ Example:
      3     4     0     0     2     0
 ```
 The graph:
+
 ![Graph example](docs/graph_example.png)
